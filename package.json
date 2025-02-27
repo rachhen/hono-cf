@@ -36,7 +36,7 @@
     "drizzle-kit": "^0.30.5",
     "eslint": "^9.21.0",
     "eslint-plugin-format": "^1.0.1",
-    "vitest": "^2.1.8",
+    "vitest": "^2.1.9",
     "wrangler": "^3.111.0"
   }
 }
